@@ -5,7 +5,7 @@ void main() {
 }
 
 class BusniessCardApp extends StatelessWidget {
-  double radius = 112;
+  double radius = 100;
   @override
   Widget build(BuildContext context) {
     return const MaterialApp(
